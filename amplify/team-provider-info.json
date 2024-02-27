@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-rynowa-staging-150505-authRole",
+      "UnauthRoleArn": "arn:aws:iam::767397855468:role/amplify-rynowa-staging-150505-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::767397855468:role/amplify-rynowa-staging-150505-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-rynowa-staging-150505-deployment",
+      "UnauthRoleName": "amplify-rynowa-staging-150505-unauthRole",
+      "StackName": "amplify-rynowa-staging-150505",
+      "StackId": "arn:aws:cloudformation:us-east-1:767397855468:stack/amplify-rynowa-staging-150505/6c7e46b0-d4b8-11ee-9301-0ab1b59b4bf1",
+      "AmplifyAppId": "dgzlasm76dv6j"
+    }
+  }
+}
